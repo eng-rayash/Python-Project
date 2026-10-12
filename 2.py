@@ -1,0 +1,7 @@
+print(7+8)
+print(7-5)
+print(7*5)
+print(7/5)
+print(7//5)
+print(7%2)
+print(7**5)
